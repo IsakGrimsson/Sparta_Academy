@@ -1,9 +1,32 @@
-# My repo README file
+# Isak Grimsson - Junior Data Engineer @ Sparta Global
+- BSc in CompSci
+- found a passion for data engineering while working with ML
+- strategy game enthusiast. 
 
-Hi Paula & Tommy
+## Tech stack
+| Technology | Proficiency|
+| --- | --- |
+| Python | intermediate |
+| Java |  foundational |
+| Javascript | foundational |
+| SQL | intermediate |
 
-I completed the python fundamentals course before starting the academy and I didn't keep the code I wrote for it anymore
+## Links
+[Github](https://github.com/IsakGrimsson)
 
-But I'm quite familiar with python and have been writing code regularly for the last year in it (you can see my other repos on github for more)
+[Portfolio](https://isakgrimsson.netlify.app/)
 
-I also added the notes I took when I was originally getting to grips with it into the 'Python Notes' folder as something tangible at least
+## Insert humour
+🎄 🎄 🎄
+
+He's making a database
+
+He's sorting it twice
+``` SQL
+SELECT *
+FROM contacts
+WHERE behaviour = 'nice'
+```
+SQL Clause is coming to town
+
+🎄 🎄 🎄
