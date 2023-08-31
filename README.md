@@ -30,3 +30,7 @@ WHERE behaviour = 'nice'
 SQL Clause is coming to town
 
 🎄 🎄 🎄
+
+## Quote of the day
+![Photo of Terry Pratchett](https://static.thenounproject.com/png/237026-200.png)
+> "Build a man a fire, and he'll be warm for a day. Set a man on fire, and he'll be warm for the rest of his life." - Terry Pratchett
