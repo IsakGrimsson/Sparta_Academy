@@ -32,5 +32,5 @@ SQL Clause is coming to town
 🎄 🎄 🎄
 
 ## Quote of the day
-![Photo of Terry Pratchett](https://static.thenounproject.com/png/237026-200.png)
+![Photo of Terry Pratchett](https://static01.nyt.com/images/2014/08/17/books/review/0817-bks-BTB/0817-bks-BTB-superJumbo.jpg)
 > "Build a man a fire, and he'll be warm for a day. Set a man on fire, and he'll be warm for the rest of his life." - Terry Pratchett
