@@ -22,7 +22,7 @@
 He's making a database
 
 He's sorting it twice
-``` SQL
+``` SQ
 SELECT *
 FROM contacts
 WHERE behaviour = 'nice'
